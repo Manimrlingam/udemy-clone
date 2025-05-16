@@ -79,7 +79,7 @@ body {
     flex-wrap: wrap;
     display: flex;
     padding: 10px;
-    border-bottom: solid black 1px;
+    border-bottom: solid darkblue 1px;
     justify-content: space-around;
 }
 
